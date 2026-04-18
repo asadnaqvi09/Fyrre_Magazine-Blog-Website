@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Jakob Grønberg",
+    "username": "jakob-gronberg",
+    "job": "Artist",
+    "city": "Berlin",
+    "img": "/images/Author1.png",
+    "email": "randomemail@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Louise Jensen",
+    "username": "louise-jensen",
+    "job": "Artist",
+    "city": "Berlin",
+    "img": "/images/Author1.png",
+    "email": "randomemail@example.com" 
+  },
+  {
+    "id": 3,
+    "name": "Anne Henry",
+    "username": "anne-henry",
+    "job": "Artist",
+    "city": "Berlin",
+    "img": "/images/Author1.png",
+    "email": "randomemail@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Anna Nielsen",
+    "username": "anna-nielsen",
+    "job": "Artist",
+    "city": "Berlin",
+    "img": "/images/Author1.png",
+    "email": "randomemail@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Jane Cooper",
+    "username": "jane-cooper",
+    "job": "Artist",
+    "city": "Berlin",
+    "img": "/images/Author1.png",
+    "email": "randomemail@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Cristofer Vaccaro",
+    "username": "cristofer-vaccaro",
+    "job": "Artist",
+    "city": "Berlin",
+    "img": "/images/Author1.png",
+    "email": "randomemail@example.com"
+  }
+]

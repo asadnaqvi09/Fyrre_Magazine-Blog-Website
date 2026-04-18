@@ -1,0 +1,287 @@
+[
+  {
+    "id": "blog-001",
+    "slug": "future-of-digital-journalism",
+    "title": "The Future of Digital Journalism in a Curated World",
+    "excerpt": "As attention spans shrink and algorithms dominate distribution, curated digital journalism is becoming more relevant than ever.",
+    "blogImg": "/images/indestructible-hope.png",
+    "category": { "id": "cat-tech", "name": "Technology" },
+    "readTime": "6 min read",
+    "publishedAt": "2024-12-15",
+    "likes": 320,
+    "views": 1240,
+    "author": {
+      "authorId": 1,
+      "name": "Jakob Grønberg",
+      "username": "jakob-gronberg",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-002",
+    "slug": "why-editorial-design-still-matters",
+    "title": "Why Editorial Design Still Matters in the Age of Feeds",
+    "excerpt": "Good editorial design is invisible — yet essential. Here’s why layout and typography still define credibility.",
+    "blogImg": "/images/devil-details.png",
+    "category": { "id": "cat-design", "name": "Design" },
+    "readTime": "5 min read",
+    "publishedAt": "2024-12-10",
+    "likes": 280,
+    "views": 980,
+    "author": {
+      "authorId": 2,
+      "name": "Louise Jensen",
+      "username": "louise-jensen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-003",
+    "slug": "building-trust-with-long-form-content",
+    "title": "Building Reader Trust with Long-Form Content",
+    "excerpt": "In a world of short posts and reels, long-form content still builds the deepest trust.",
+    "blogImg": "/images/hope-dies.png",
+    "category": { "id": "cat-writing", "name": "Writing" },
+    "readTime": "7 min read",
+    "publishedAt": "2024-12-05",
+    "likes": 410,
+    "views": 1560,
+    "author": {
+      "authorId": 1,
+      "name": "Jakob Grønberg",
+      "username": "jakob-gronberg",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Published"
+  },
+  {
+    "id": "blog-004",
+    "slug": "rise-of-independent-creators",
+    "title": "The Rise of Independent Creators in Modern Publishing",
+    "excerpt": "Creators are becoming publications of their own, redefining authority and reach.",
+    "blogImg": "/images/through-eyes-street.png",
+    "category": { "id": "cat-media", "name": "Media" },
+    "readTime": "6 min read",
+    "publishedAt": "2024-11-28",
+    "likes": 260,
+    "views": 870,
+    "author": {
+      "authorId": 4,
+      "name": "Anna Nielsen",
+      "username": "anna-nielsen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Pending"
+  },
+  {
+    "id": "blog-005",
+    "slug": "designing-for-reading-not-scrolling",
+    "title": "Designing for Reading, Not Scrolling",
+    "excerpt": "Most websites optimize for scrolling — magazines optimize for reading.",
+    "blogImg": "/images/street-art.png",
+    "category": { "id": "cat-design", "name": "Design" },
+    "readTime": "5 min read",
+    "publishedAt": "2024-11-20",
+    "likes": 190,
+    "views": 640,
+    "author": {
+      "authorId": 6,
+      "name": "Cristofer Vaccaro",
+      "username": "cristofer-vaccaro",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-006",
+    "slug": "ai-and-the-future-of-journalism",
+    "title": "AI and the Future of Journalism: Threat or Ally?",
+    "excerpt": "How generative AI is reshaping storytelling, verification, and trust in digital newsrooms.",
+    "blogImg": "/images/best-art.png",
+    "category": { "id": "cat-tech", "name": "Technology" },
+    "readTime": "8 min read",
+    "publishedAt": "2025-01-10",
+    "likes": 450,
+    "views": 2100,
+    "author": {
+      "authorId": 1,
+      "name": "Jakob Grønberg",
+      "username": "jakob-gronberg",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Pending"
+  },
+  {
+    "id": "blog-007",
+    "slug": "immersive-storytelling-in-digital-media",
+    "title": "Immersive Storytelling: The Next Wave in Digital Media",
+    "excerpt": "From interactive maps to multimedia longforms, how publishers are keeping readers engaged longer.",
+    "blogImg": "/images/devil-details.png",
+    "category": { "id": "cat-media", "name": "Media" },
+    "readTime": "6 min read",
+    "publishedAt": "2024-12-20",
+    "likes": 310,
+    "views": 1350,
+    "author": {
+      "authorId": 4,
+      "name": "Anna Nielsen",
+      "username": "anna-nielsen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-008",
+    "slug": "typography-trends-2025",
+    "title": "Typography Trends That Will Define Editorial Design in 2025",
+    "excerpt": "Bold serifs, variable fonts, and accessibility — what's shaping readable design next.",
+    "blogImg": "/images/hope-dies.png",
+    "category": { "id": "cat-design", "name": "Design" },
+    "readTime": "5 min read",
+    "publishedAt": "2025-01-05",
+    "likes": 220,
+    "views": 890,
+    "author": {
+      "authorId": 2,
+      "name": "Louise Jensen",
+      "username": "louise-jensen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-009",
+    "slug": "revival-of-longform-in-ai-era",
+    "title": "The Revival of Long-Form in the AI Era",
+    "excerpt": "Why depth and human insight still win against quick AI-generated summaries.",
+    "blogImg": "/images/through-eyes-street.png",
+    "category": { "id": "cat-writing", "name": "Writing" },
+    "readTime": "7 min read",
+    "publishedAt": "2024-11-15",
+    "likes": 380,
+    "views": 1420,
+    "author": {
+      "authorId": 1,
+      "name": "Jakob Grønberg",
+      "username": "jakob-gronberg",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Published"
+  },
+  {
+    "id": "blog-010",
+    "slug": "creator-economy-publishing-shift",
+    "title": "How the Creator Economy is Reshaping Traditional Publishing",
+    "excerpt": "Independent voices are challenging big media — lessons for both sides.",
+    "blogImg": "/images/street-art.png",
+    "category": { "id": "cat-media", "name": "Media" },
+    "readTime": "6 min read",
+    "publishedAt": "2024-12-01",
+    "likes": 290,
+    "views": 1100,
+    "author": {
+      "authorId": 4,
+      "name": "Anna Nielsen",
+      "username": "anna-nielsen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-011",
+    "slug": "building-trust-digital-age",
+    "title": "Rebuilding Trust in Media: Strategies for 2025",
+    "excerpt": "Transparency, verification, and community — keys to regaining reader confidence.",
+    "blogImg": "/images/best-art.png",
+    "category": { "id": "cat-writing", "name": "Writing" },
+    "readTime": "6 min read",
+    "publishedAt": "2025-01-15",
+    "likes": 360,
+    "views": 1680,
+    "author": {
+      "authorId": 5,
+      "name": "Sara Pedersen",
+      "username": "sara-pedersen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Pending"
+  },
+  {
+    "id": "blog-012",
+    "slug": "minimalist-design-for-readers",
+    "title": "Minimalist Design Principles for Better Reader Focus",
+    "excerpt": "Less clutter means more immersion — applying simplicity to editorial layouts.",
+    "blogImg": "/images/devil-details.png",
+    "category": { "id": "cat-design", "name": "Design" },
+    "readTime": "5 min read",
+    "publishedAt": "2024-11-25",
+    "likes": 240,
+    "views": 920,
+    "author": {
+      "authorId": 6,
+      "name": "Cristofer Vaccaro",
+      "username": "cristofer-vaccaro",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Pending"
+  },
+  {
+    "id": "blog-013",
+    "slug": "narrative-journalism-renaissance",
+    "title": "The Renaissance of Narrative Journalism Online",
+    "excerpt": "Storytelling techniques from literature are reviving longform in digital formats.",
+    "blogImg": "/images/hope-dies.png",
+    "category": { "id": "cat-writing", "name": "Writing" },
+    "readTime": "7 min read",
+    "publishedAt": "2024-12-25",
+    "likes": 400,
+    "views": 1800,
+    "author": {
+      "authorId": 3,
+      "name": "Marcus Larsen",
+      "username": "marcus-larsen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Rejected"
+  },
+  {
+    "id": "blog-014",
+    "slug": "social-platforms-vs-traditional-media",
+    "title": "Social Platforms vs Traditional Media: The 2025 Battle for Attention",
+    "excerpt": "Creators and short-form are winning — how legacy publishers can adapt.",
+    "blogImg": "/images/through-eyes-street.png",
+    "category": { "id": "cat-tech", "name": "Technology" },
+    "readTime": "6 min read",
+    "publishedAt": "2025-01-20",
+    "likes": 330,
+    "views": 1450,
+    "author": {
+      "authorId": 1,
+      "name": "Jakob Grønberg",
+      "username": "jakob-gronberg",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Pending"
+  },
+  {
+    "id": "blog-015",
+    "slug": "interactive-content-future-publishing",
+    "title": "Interactive Content: The Future of Engaging Publishing",
+    "excerpt": "From polls to immersive experiences — why static text is no longer enough.",
+    "blogImg": "/images/street-art.png",
+    "category": { "id": "cat-media", "name": "Media" },
+    "readTime": "6 min read",
+    "publishedAt": "2024-11-10",
+    "likes": 270,
+    "views": 1050,
+    "author": {
+      "authorId": 2,
+      "name": "Louise Jensen",
+      "username": "louise-jensen",
+      "authorImg": "/images/Author1.png"
+    },
+    "status": "Published"
+  }
+]

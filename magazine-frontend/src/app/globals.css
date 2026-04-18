@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+/* -------------------------
+   THEME VARIABLES
+-------------------------- */
+:root {
+  --background: #ffffff;
+  --foreground: #111111;
+  --muted: #6b7280;
+  --accent: #e11d48;
+
+  --font-sans: "Source Sans 3", "Source Sans Pro", sans-serif;
+  --font-serif: "Playfair Display", serif;
+}
+
+/* -------------------------
+   GLOBAL STYLES
+-------------------------- */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  line-height: 1.6; /* Magazine readability ke liye */
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Editorial headings */
+h1, h2, h3, h4 {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em; /* Magazine style tight headings */
+}
+
+/* Special Magazine Touch: Drop Cap ya Quotes ke liye */
+blockquote {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.25rem;
+  border-left: 4px solid var(--muted);
+  padding-left: 1rem;
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+}
